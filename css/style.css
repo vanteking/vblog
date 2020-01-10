@@ -3328,3 +3328,16 @@ footer .footer_bottom {
 nav.pagination {
 	display: block;
 }
+
+.about {
+    text-align: center;
+    border-bottom: 1px solid #fff;
+    margin: 0 58px;
+   
+    padding-bottom: 40px;
+}
+    .about img {
+        border-radius: 50%;
+        width: 135px;
+        display: inline-block !important;
+    }
